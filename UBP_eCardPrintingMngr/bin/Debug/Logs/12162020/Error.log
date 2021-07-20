@@ -1,0 +1,5 @@
+12/16/20 10:38:53 AM     Generate_MF_Report(): CardNo 4404527860001052 Error catched The 'OraOLEDB.Oracle' provider is not registered on the local machine.
+12/16/20 10:38:57 AM     Generate_MF_Report(): CardNo 4404527860000047 Error catched The 'OraOLEDB.Oracle' provider is not registered on the local machine.
+12/16/20 10:38:59 AM     Generate_MF_Report(): CardNo 4404527860000054 Error catched The 'OraOLEDB.Oracle' provider is not registered on the local machine.
+12/16/20 10:39:01 AM     Generate_MF_Report(): CardNo 4404527860001060 Error catched The 'OraOLEDB.Oracle' provider is not registered on the local machine.
+12/16/20 10:48:06 AM     tsbCardPreview_Click(): Runtime error catched Object reference not set to an instance of an object.

@@ -1,0 +1,48 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="DefAppPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ubp2016</Value>
+    </Setting>
+    <Setting Name="Server_eCard" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="Database_eCard" Type="System.String" Scope="User">
+      <Value Profile="(Default)">dbcUBP_EcardMgr</Value>
+    </Setting>
+    <Setting Name="User_eCard" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sa</Value>
+    </Setting>
+    <Setting Name="Password_eCard" Type="System.String" Scope="User">
+      <Value Profile="(Default)">acc2020</Value>
+    </Setting>
+    <Setting Name="User_GSIS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">timuser</Value>
+    </Setting>
+    <Setting Name="Password_GSIS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">dunKayoUBPPRD</Value>
+    </Setting>
+    <Setting Name="Port_GSIS" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1521</Value>
+    </Setting>
+    <Setting Name="ServiceName_GSIS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">UMIDPRD</Value>
+    </Setting>
+    <Setting Name="Server_GSIS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.12.114</Value>
+    </Setting>
+    <Setting Name="CardPrinter" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="UserVariables" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="MainLoaderFlag" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="IdleLimit" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
